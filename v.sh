@@ -10,4 +10,4 @@ sudo apt install --assume-yes xscreensaver
 sudo systemctl disable lightdm.service
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg --install google-chrome-stable_current_amd64.deb
-echo '\nCheck https://remotedesktop.google.com/headless  Copy Command Of Debian Linux And Paste Down\n'
+echo '\nUntuk Chrome remote desktop pergi ke > https://remotedesktop.google.com/headless  Copy perintah Debian Linux\n'
